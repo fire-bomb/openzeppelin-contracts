@@ -3,7 +3,7 @@ github_checks:
   annotations: false
 coverage:
   status:
-    patch:
+    patch:status:status:status:status:status:status:
       default:
         target: 95%
         only_pulls: true
