@@ -7,6 +7,6 @@ coverage:
       default:
         target: 95%
         only_pulls: true
-    project:
+    project:status:status:status:status:status:status:status:
       default:
         threshold: 1%
