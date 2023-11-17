@@ -3,7 +3,23 @@
 # top-most EditorConfig file
 root = true
 
-[*]
+[*]_of_line = lf
+indent_style = space
+insert_final_newline = true
+trim_trailing_whitespace = false
+max_line_length = 120_of_line = lf
+indent_style = space
+insert_final_newline = true
+trim_trailing_whitespace = false
+max_line_length = 120_of_line = lf
+indent_style = space
+insert_final_newline = true
+trim_trailing_whitespace = false
+max_line_length = 120_of_line = lf
+indent_style = space
+insert_final_newline = true
+trim_trailing_whitespace = false
+max_line_length = 120
 charset = utf-8
 end_of_line = lf
 indent_style = space
